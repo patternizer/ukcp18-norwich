@@ -1,8 +1,8 @@
-![image](https://github.com/patternizer/glosat-breakpoint-analysis/blob/main/ukcp18-projections-tg1907.png)
-![image](https://github.com/patternizer/glosat-breakpoint-analysis/blob/main/climate-stripes-RCP26.png)
-![image](https://github.com/patternizer/glosat-breakpoint-analysis/blob/main/climate-stripes-RCP45.png)
-![image](https://github.com/patternizer/glosat-breakpoint-analysis/blob/main/climate-stripes-RCP60.png)
-![image](https://github.com/patternizer/glosat-breakpoint-analysis/blob/main/climate-stripes-RCP85.png)
+![image](https://github.com/patternizer/ukcp18-norwich/blob/main/ukcp18-projections-tg1907.png)
+![image](https://github.com/patternizer/ukcp18-norwich/blob/main/climate-stripes-RCP26.png)
+![image](https://github.com/patternizer/ukcp18-norwich/blob/main/climate-stripes-RCP45.png)
+![image](https://github.com/patternizer/ukcp18-norwich/blob/main/climate-stripes-RCP60.png)
+![image](https://github.com/patternizer/ukcp18-norwich/blob/main/climate-stripes-RCP85.png)
 
 # ukcp18-norwich
 
